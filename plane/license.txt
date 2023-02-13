@@ -1,0 +1,11 @@
+Model Information:
+* title:	Boeing 777-200
+* source:	https://sketchfab.com/3d-models/boeing-777-200-562c02335e0c4f0a9fd8df80971c05af
+* author:	Eelo (https://sketchfab.com/1365)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Boeing 777-200" (https://sketchfab.com/3d-models/boeing-777-200-562c02335e0c4f0a9fd8df80971c05af) by Eelo (https://sketchfab.com/1365) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
